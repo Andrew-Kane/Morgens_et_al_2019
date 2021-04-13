@@ -12,6 +12,8 @@ The scripts in this repository allow for the following:
 - Normalize and process flow data into dataframes for statistical analysis and plotting
 - Create dose response curves from multiple drugs across multiple mammalian cell lines.
 
+# Requirements
+
 The scripts in this repository require the following:
 - Pre-selected datapoints from a flow cytometry processing program, such s FlowJo, exported to csv files.
 
