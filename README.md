@@ -2,7 +2,7 @@
 R analysis scripts for Morgens et al. 2019 DOI: 7554
 
 ### developer: Andrew Kane, Ph.D. Student, Denic Laboratory, Harvard University
-### email: andrew_kane a.t fas do t harvard (dot) edu
+### email: andrew_kane a.t fas (dot) harvard (dot) edu
 
 # Purpose
 This repository contains analysis scripts in R for reading in and visualizing flow cytometry data.
