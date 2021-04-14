@@ -15,6 +15,6 @@ The scripts in this repository allow for the following:
 # Requirements
 
 The scripts in this repository require the following:
-- Pre-selected datapoints from a flow cytometry processing program, such s FlowJo, exported to csv files.
+- Pre-selected datapoints from a flow cytometry processing program, such as FlowJo, exported to csv files.
 
-Readme last updated 4.13.2021
+Readme last updated 4.14.2021
