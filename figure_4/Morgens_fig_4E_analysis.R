@@ -3,7 +3,7 @@
 #Red:Green ratios were calculated in FlowJo prior to data export
 
 #load dependencies
-library(ggplot2)
+library(readr)
 library(plyr)
 library(dplyr)
 library(drc)
@@ -12,7 +12,7 @@ library(drc)
 
 #The import function takes the name of a csv file in the active directory and imports it, assigning them variables based on the original filename from their export from FlowJo. This returns a dataframe containing all flow cytometry data with appropriate variable names.
 import <- function(f){
-  data <- read.csv(f)
+  data <- read_csv(f)
   split_fnames <- strsplit(data$file, '_')
   split_fnames <- data.frame(matrix(unlist(split_fnames), nrow = length(split_fnames), byrow = TRUE))
   data$replicate <- as.numeric(substr(strsplit(f,'_')[[1]][3],4,4))
