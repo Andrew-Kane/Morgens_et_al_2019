@@ -4,7 +4,7 @@
 ### email: andrew_kane a.t fas (dot) harvard (dot) edu
 
 # Purpose
-This repository contains analysis scripts in R for reading in and visualizing flow cytometry data. It was developed during the preparation of [Morgens et al. 2019](https://doi.org/10.7554/elife.48434) 
+This repository contains analysis scripts in R for reading in and visualizing flow cytometry data. It was developed during the preparation of [Morgens et al. 2019](https://doi.org/10.7554/elife.48434).
 __Please cite this manuscript if you use these scripts!__
 
 The scripts in this repository allow for the following:
