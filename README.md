@@ -1,7 +1,7 @@
 # README for Morgens_et_al_2019 anlysis
 
 ### developer: Andrew Kane, Ph.D. Student, Denic Laboratory, Harvard University
-### email: andrew_kane a.t fas (dot) harvard (dot) edu
+### email: andrew_kane[at]fas[dot]harvard[dot]edu
 
 # Purpose
 This repository contains analysis scripts in R for reading in and visualizing flow cytometry data. It was developed during the preparation of [Morgens et al. 2019](https://doi.org/10.7554/elife.48434).
